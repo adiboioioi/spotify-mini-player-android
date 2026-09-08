@@ -16,7 +16,6 @@ already installed and logged in on the phone, and draws its own UI on top.
 - Background color extracted per-track from album art (via Android's Palette
   library), cross-fading between songs
 - Edge-to-edge immersive layout (system bars hidden, swipe to reveal)
-<img width="auto" height="1000" alt="Screenshot_20260909_011116_com_example_spotifymini_MainActivity" src="https://github.com/user-attachments/assets/f47fb742-10bf-4cc2-b22c-5afe0ee92ebc" />
 <img width="auto" height="500" alt="Screenshot_20260909_011220_com_example_spotifymini_MainActivity" src="https://github.com/user-attachments/assets/e1dc371f-f3ba-4e8c-b3ec-423a306ab324" />
 
 
