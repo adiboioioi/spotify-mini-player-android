@@ -1,0 +1,28 @@
+# Local config — contains machine-specific SDK path and your Spotify Client ID
+local.properties
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+
+# Signing
+*.jks
+*.keystore
+
+# Logs / captures made while debugging
+log.txt
+*.log
+
+# Spotify SDK binaries — not redistributable, download per README
+app/libs/*.aar
+
+# Local dev artifacts
+captures/
+.externalNativeBuild/
+.cxx/

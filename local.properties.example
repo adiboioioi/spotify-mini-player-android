@@ -1,0 +1,8 @@
+# Copy this file to local.properties (git-ignored) and fill in real values.
+
+# Location of the Android SDK.
+sdk.dir=/path/to/Android/Sdk
+
+# Your Spotify Developer app's Client ID.
+# Get one at https://developer.spotify.com/dashboard
+spotify.client.id=YOUR_SPOTIFY_CLIENT_ID
